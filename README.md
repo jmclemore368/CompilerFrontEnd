@@ -1,7 +1,7 @@
 # CompilerFrontEnd - Scanner/Parser for SUBC
 
 ### Running the Compiler
-1. Invoke 'make'. This will create an executable `p1`
+1. Invoke `make`. This will create an executable `p1`
 2. There are 2 acceptable ways to run the program:
    1. `./p1 path/to/testprog`
        * Runs the program, but produces no output.
