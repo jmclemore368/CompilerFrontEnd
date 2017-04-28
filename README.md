@@ -1,7 +1,6 @@
-# CompilerFrontEnd
-# Scanner/Parser for SUBC
+# CompilerFrontEnd - Scanner/Parser for SUBC
 
-# Running the Compiler
+### Running the Compiler
 1. Invoke 'make'. This will create an executable `p1`
 2. There are 2 acceptable ways to run the program:
    1. `./p1 path/to/testprog`
@@ -10,7 +9,7 @@
        * Prints the abstract syntax tree, and nothing else.
 
 
-# To Validate Output From the -ast Switch
+### To Validate Output From the -ast Switch
 1. Pipe the output to a file.
    1. `./p1 path/to/testprog`
 2. Diff with the desired file.
